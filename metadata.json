@@ -1,0 +1,6 @@
+{
+  "name": "DOC Prefeitura de Cutias",
+  "description": "Sistema de trâmite de documentos internos, controle de prazos e fluxo de protocolos da Prefeitura Municipal de Cutias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
